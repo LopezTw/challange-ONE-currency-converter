@@ -10,7 +10,7 @@
 <p>Por se tratar de uma aplicação simples, houve poucas Tecnlogias usadas, sendo elas a API para atualizar a cotação em tempo real de execução e o Swing, utilizando a interface gráfica JOptions.</p>
 
 <h2>🚀 Rodando o projeto</h2>
-<p>Para rápido acesso, você pode baixar através da aba [releases](https://github.com/LopezTw/challange-ONE-currency-converter/releases)</p>
+<p>Para rápido acesso, você pode baixar através da aba [releases]</p>
 
 <h2>🔜 Implementação futura</h2>
 <p><ul> • Possivel implementação de novas abas com outros tipos de conversões </ul></p>
